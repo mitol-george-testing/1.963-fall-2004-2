@@ -1,0 +1,39 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Engineering",
+      "Environmental Engineering"
+    ],
+    [
+      "Business",
+      "Information Technology"
+    ],
+    [
+      "Engineering",
+      "Computer Science",
+      "Data Mining"
+    ],
+    [
+      "Social Science",
+      "Geography"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "af384539-917b-cd05-a44a-7c235805dd84"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Environmental Engineering Applications of Geographic Information Systems",
+  "course_description": "This graduate seminar is taught in a lecture and lab exercise format.\u00a0The subject matter is tailored to introduce Environmental Engineering students to the use and potential of Geographic Information Systems in their discipline. Lectures will cover the general concepts of GIS use and introduce the material in the exercises that demonstrate the practical application of GIS.\n",
+  "department_numbers": [
+    "1"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "1.963",
+  "learning_resource_types": [
+    "Lecture Notes"
+  ],
+  "title": "Course Metadata"
+}
